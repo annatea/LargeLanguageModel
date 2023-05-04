@@ -2,7 +2,7 @@
 
 Exploring the use of Large Language Models on Twitter Data
 
-The proposed project entails developing a machine learning model to classify tweets related to Guardians of the Galaxy vol.3 into distinct categories based on their sentiment or stance towards the conflict. The aim is to comprehend how different groups of people perceive the movie and to identify potential sources of misinformation or spoilers.
+The proposed project entails developing a machine learning model to classify tweets related to Guardians of the Galaxy vol.3 into distinct categories based on their sentiment or stance. The aim is to comprehend how different groups of people perceive the movie and to identify potential sources of misinformation or spoilers.
 
 ## Project Steps
 
